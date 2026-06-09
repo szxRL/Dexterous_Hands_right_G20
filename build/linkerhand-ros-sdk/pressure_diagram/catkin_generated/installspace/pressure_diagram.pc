@@ -1,0 +1,8 @@
+prefix=/home/szx/Linker_Hand_SDK_ROS/install
+
+Name: pressure_diagram
+Description: Description of pressure_diagram
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
